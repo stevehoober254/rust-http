@@ -17,7 +17,7 @@ To run the code in this repository, you'll need to have Rust and Cargo installed
 2. Navigate to the project directory:
 
     ```sh
-    cd http_calls_rust
+    cd rust-http
     ```
 
 3. Build and run the project:
